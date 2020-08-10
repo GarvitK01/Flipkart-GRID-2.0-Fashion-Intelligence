@@ -22,6 +22,8 @@ Data Augmentation is used to rescale and normalize image data to prevent overfit
 
 The Extractor Model in the make_clusters() function returns a 128-dimensional vector which can be used as a vector containing the features of the images.
 
+![Model Summary](/md-images/model.png)
+
 ## Clustering
 
 After passing the images through the Extractor Model, we use K-Means clustering with the help of the sklearn library to cluster the images on 5 groups based on the 128 dimensional feature extracted from the model.
@@ -29,6 +31,8 @@ After passing the images through the Extractor Model, we use K-Means clustering 
 The make_clusters() function in clustering.py performs this process using more utility functions which help in creating dictionary mappings between images and their names, assigned clusters etc. 
 
 Then we have used T-SNE to reduce the dimensions of the image for better visualization. The plot below shows the different clusters that every image has been assigned after dimension reduction and K-Means clustering.
+
+![Clustering](/md-images/tsne.png)
 
 
 ## Wordcloud
