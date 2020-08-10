@@ -40,6 +40,9 @@ We have also generated a WordCloud with the help of our images which takes all t
 
 * Runways, fashion weeks are usd to identify upcoming trends for the next season along with the colours  from the current season which influence the subsequent season as well. The most prominent fabrics and colours on runways can be used to design a portfolio for the next seasons
 
+![Runway Image][https://fashionista.com/.image/t_share/MTY3MzA3NTExMzc5MDExNDA5/pfw-spring-2020-trends.png]
+
+
 * The most popular products across multiple E-Commerce platforms can  be used to formulate an idea of the designs trending currently.
 
 * Lagging trends can be identified using products on sale as they are exiting the current market and will have no influence on the next fashion season or trends.
