@@ -35,12 +35,14 @@ Then we have used T-SNE to reduce the dimensions of the image for better visuali
 
 We have also generated a WordCloud with the help of our images which takes all the words occurring in the names of all the images and highlights the most frequent keywords which could be colours, brands, prints fabrics etc, that can help in keeping track of current trends for the season.
 
+![Wordcloud Image](/Wordcloud-Women.jpg)
+
 
 ## Trends
 
 * Runways, fashion weeks are usd to identify upcoming trends for the next season along with the colours  from the current season which influence the subsequent season as well. The most prominent fabrics and colours on runways can be used to design a portfolio for the next seasons
 
-![Runway Image][https://fashionista.com/.image/t_share/MTY3MzA3NTExMzc5MDExNDA5/pfw-spring-2020-trends.png]
+![Runway Image](https://fashionista.com/.image/t_share/MTY3MzA3NTExMzc5MDExNDA5/pfw-spring-2020-trends.png)
 
 
 * The most popular products across multiple E-Commerce platforms can  be used to formulate an idea of the designs trending currently.
