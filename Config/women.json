@@ -1,0 +1,45 @@
+{
+    "websites":[
+
+        {
+            "name": "shopstyle",
+            "url": ["https://www.shopstyle.com/browse/tees-and-tshirts"],
+            "img": "//img[@class='product-cell__image']",
+            "name_tag": "span",
+            "product": "//span[@class='ng-star-inserted']",
+            "add": "",
+            "src-url": "src"
+        },
+
+        {
+            "name": "revolve",
+            "url": ["https://www.revolve.com/tops-tees/br/1e8535/?navsrc=left"],
+            "img":  "//img[@class='products-grid__image-link-img plp-image js-plp-image']",
+            "name_tag": "a",
+            "product": "//a[@class='product-name u-margin-t--lg js-plp-name']",
+            "add": "",
+            "src-url": "src"
+        },
+
+        {
+            "name": "coggles",
+            "url": ["https://www.coggles.com/woman/category/t-shirts-and-tops.list?pageNumber=1&facetFilters=en_clothingStyle_content:T-Shirts|en_clothingStyle_content:Polo-Shirts",
+                "https://www.coggles.com/woman/category/t-shirts-and-tops.list?pageNumber=2&facetFilters=en_clothingStyle_content:T-Shirts"],
+            "img":  "//img[@class='productBlock_image']",
+            "name_tag": "h3",
+            "product": "//h3",
+            "add": "",
+            "src-url": "src"
+        },
+
+        {
+            "name": "koovs",
+            "url": ["https://www.koovs.com/t%20shirt?type=list&sort=latest&filter_gender_fq=2"],
+            "img":  "//img[@class='prodImg']",
+            "name_tag": "span",
+            "product": "//span[@class='product_title clip-text productName']",
+            "add": "",
+            "src-url": "src"
+        }
+    ]
+}

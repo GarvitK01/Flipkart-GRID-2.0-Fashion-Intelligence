@@ -1,0 +1,79 @@
+{
+    "websites":[
+
+            {
+                "name": "nnnow",
+                "url": ["https://www.nnnow.com/men-t-shirts-polos?p=1&sort=newest&category=Polo%20Shirts--T-Shirts&na=true"],
+                "img": "//img[@class='nwc-lazyimg is-loaded']",
+                "brand": "div",
+                "product": "//div[@class='nw-productview-producttitle']",
+                "add": "",
+                "src-url": "src"
+            },
+
+            {
+                "name": "koovs",
+                "url":  ["https://www.koovs.com/men/tags/fresh-new-lines?type=list&sort=relevance&filter_category_fq=712"],
+                "img": "//img[@class='prodImg']",
+                "brand": "span",
+                "product": "//span[@class='product_title clip-text productName']",
+                "add": "",
+                "src-url": "src"
+            },
+
+            {
+                "name": "benetton",
+                "url": ["https://world.benetton.com/mens-t-shirts"],
+                "img": "//img[@class='ls-is-cached lazyloaded']",
+                "brand": "a",
+                "product": "//a[@class='title]",
+                "add": "https://world.benetton.com",
+                "src-url": "src"
+            },
+
+            {
+                "name": "jcrew",
+                "url": ["https://www.jcrew.com/in/c/mens_feature/newarrivals/tshirts?Nsrt=3"],
+                "img": "//img[@class='js-product__image product-tile__image--small']",
+                "brand": "h3",
+                "product": "//hr[@class='tile__detail tile__detail--name']",
+                "add": "",
+                "src-url": "src"
+            },
+
+
+            {
+                "name": "gucci",
+                "url": ["https://www.gucci.com/us/en/ca/men/ready-to-wear-for-men/t-shirts-polo-shirts-for-men-c-men-readytowear-tshirts-and-polos"],
+                "img": "//img[@alt='lazy loading']" ,
+                "brand": "h2",
+                "product": "//h2",
+                "add": "http:",
+                "src-url": "src"
+            },
+
+            {
+                "name": "coggles",
+                "url": ["https://www.coggles.com/man/category/t-shirts-and-tops.list?pageNumber=1",
+                    "https://www.coggles.com/man/category/t-shirts-and-tops.list?pageNumber=2",
+                    "https://www.coggles.com/man/category/t-shirts-and-tops.list?pageNumber=3",
+                    "https://www.coggles.com/man/category/polo-shirts.list?pageNumber=1",
+                    "https://www.coggles.com/man/category/polo-shirts.list?pageNumber=2"],
+                "img": "//img[@class='productBlock_image']",
+                "brand": "h3",
+                "product": "//h3[@class='productBlock_productName']",
+                "add": "",
+                "src-url": "src"
+            },
+
+            {
+                "name": "matchesfashion",
+                "url": ["https://www.matchesfashion.com/intl/mens/shop/clothing/t-shirts"],
+                "img": "//img[@data-image-length='6']",
+                "brand": "h3",
+                "product": "//h3[@class='lister__item__details']",
+                "add": "",
+                "src-url": "src"
+            }
+        ]
+}
